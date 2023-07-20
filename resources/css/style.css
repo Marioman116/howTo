@@ -1,0 +1,34 @@
+* {background-color: #81f781ff;}
+header{
+background-color: #502d16ff;}
+h1 {
+color: #306a30ff;
+font-size:2.5rem;
+text-align: center;
+font-family: 'Palanquin', sans-serif;
+text-decoration: underline;
+}
+h2 {
+color:#502d16ff;
+font-family: 'Palanquin', sans-seirf;
+}
+h3 {
+text-decoration:underline;
+color: #502d16ff;
+font-family: 'Palanquin', sans-serif;
+font-size:1.25rem;
+text-align: center;
+}
+p {
+color: #502d16ff;
+font-family: 'Palanquin', sans-serif;
+}
+li {
+color: #502d16ff;
+font-family: 'Palanquin', sans-serif;
+}
+a {
+color: blue;
+font-family: 'Palanquin', sans-serif;
+padding: 20px;
+}
